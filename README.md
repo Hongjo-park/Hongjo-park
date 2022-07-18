@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Hongjo-park
-- 👻 Computer Science
-- 🤖 Data Engineering
-- 🌎 Python, Docker, k8s, AWS ...
+
 
 
 <!---
